@@ -2,7 +2,7 @@
  * Java core pro. Home Work 2.
  * @author Ievlev Andrey
  * @version 25 Fab, 2018
- * @Link
+ * @Link rty;
  */
 import java.sql.*;
 
