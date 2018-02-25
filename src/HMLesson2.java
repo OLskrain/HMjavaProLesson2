@@ -2,7 +2,7 @@
  * Java core pro. Home Work 2.
  * @author Ievlev Andrey
  * @version 25 Fab, 2018
- * @Link rty;
+ * @Link https://github.com/OLskrain/HMjavaProLesson2.git
  */
 import java.sql.*;
 
